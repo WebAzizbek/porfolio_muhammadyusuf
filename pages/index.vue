@@ -27,14 +27,19 @@
                                 <img class="img" src="~/assets/img/png/instagram.png" alt="" width="25" height="25">
                             </NuxtLink>
                         </li>
-                        <!-- <li class="item">
-                            <NuxtLink @mousemove="store.dot = true" @mouseleave="store.dot = false" to="/" class="link">
-                                <img class="img" src="~/assets/img/png/facebook.png" alt="" width="25" height="25">
-                            </NuxtLink>
-                        </li> -->
                         <li class="item">
                             <NuxtLink @mousemove="store.dot = true" @mouseleave="store.dot = false" to="https://t.me/new_fad" class="link">
                                 <img class="img" src="~/assets/img/svg/telegram.svg" alt="" width="25" height="25">
+                            </NuxtLink>
+                        </li>
+                        <li class="item">
+                            <NuxtLink @mousemove="store.dot = true" @mouseleave="store.dot = false" to="https://www.pinterest.com/muhammad_umarjonov" class="link">
+                                <img class="img" src="~/assets/img/svg/pinterest.svg" alt="" width="25" height="25">
+                            </NuxtLink>
+                        </li>
+                        <li class="item">
+                            <NuxtLink @mousemove="store.dot = true" @mouseleave="store.dot = false" to="https://www.behance.net/muhammaumarjon1" class="link">
+                                <img class="img" src="~/assets/img/svg/behance.svg" alt="" width="25" height="25">
                             </NuxtLink>
                         </li>
                     </ul>
