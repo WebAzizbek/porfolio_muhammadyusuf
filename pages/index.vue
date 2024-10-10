@@ -38,7 +38,7 @@
                             </NuxtLink>
                         </li>
                         <li class="item">
-                            <NuxtLink @mousemove="store.dot = true" @mouseleave="store.dot = false" to="https://www.behance.net/muhammaumarjon1" class="link">
+                            <NuxtLink @mousemove="store.dot = true" @mouseleave="store.dot = false" to="https://www.behance.net/umarjonov_muhammad" class="link">
                                 <img class="img" src="~/assets/img/svg/behance.svg" alt="" width="25" height="25">
                             </NuxtLink>
                         </li>
